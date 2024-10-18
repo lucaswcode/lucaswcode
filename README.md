@@ -1,4 +1,4 @@
-Olá! Sou Lucas Willian, estudante de <strong>Sistemas de Informação</strong> com foco em <strong>desenvolvimento web</strong>.
+Olá! Sou Lucas Willian, estudante de <strong>Sistemas de Informação</strong> com foco em <strong>desenvolvimento web</strong>.<br>
 Atualmente, estou estudando também <strong>HTML, CSS e JavaScript</strong>, construindo projetos que me ajudam a aplicar e expandir meus conhecimentos.
 
 🎯 Meu foco é transformar aprendizado em projetos reais, criando soluções eficientes!
